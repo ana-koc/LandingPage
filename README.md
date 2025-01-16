@@ -1,5 +1,5 @@
 # LandingPage
 
-Это пример моего проекта LandingPage, созданного на HTML и CSS.
+This is an example of the LandingPage website, created by me with HTML and CSS.
 
-🌐 [Перейти на сайт](https://ana-koc.github.io/LandingPage)
+🌐 [Check the website](https://ana-koc.github.io/LandingPage)
